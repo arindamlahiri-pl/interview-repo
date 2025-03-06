@@ -27,7 +27,7 @@
 
 ## VS Code Configuration
 
-If you're using VS Code, the repository includes a .vscode/settings.json file. This file ensures that:
+If you're using VS Code, the repository includes a `.vscode/settings.json` file. This file ensures that:
 
 - Code is automatically formatted on save.
 - ESLint fixes are applied on save.
@@ -35,7 +35,7 @@ If you're using VS Code, the repository includes a .vscode/settings.json file. T
 
 You are also recommended to install the following VS Code extensions:
 
-- ESLint (dbaeumer.vscode-eslint)
-- Prettier - Code formatter (esbenp.prettier-vscode)
+- ESLint (`dbaeumer.vscode-eslint`)
+- Prettier - Code formatter (`esbenp.prettier-vscode`)
 
 VS Code will prompt you to install these extensions when you open the repository.
