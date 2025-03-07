@@ -4,7 +4,7 @@
 
    ```bash
    git clone <repository-url>
-   cd interview-repo
+   cd propertyloop-interview
    ```
 
 2. **Install dependencies:**
